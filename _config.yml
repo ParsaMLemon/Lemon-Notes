@@ -1,3 +1,4 @@
-title: My GitHub Pages Notes
-description: Things I've learned about GitHub Pages
-theme: minima
+   title: Lemon Notes
+   description: Things I've learned about GitHub Pages
+   theme: minima
+   baseurl: "/Lemon-Notes"
